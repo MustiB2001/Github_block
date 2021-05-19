@@ -1,0 +1,39 @@
+img{
+    height: 200px;
+    margin:200px;
+    
+    
+
+}
+.container{
+    background-color:blue;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.header{
+    text-align: center;
+    font-size: 50px;
+}
+.container_1{
+    background-color: pink;
+    height: 250px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container_2{
+    background-color: cadetblue;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h3{ 
+    text-align: center;
+}
+
